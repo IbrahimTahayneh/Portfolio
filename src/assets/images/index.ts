@@ -1,0 +1,12 @@
+export { default as Logo } from "./logo.png";
+export { default as LogoTest } from "./logo-t.png";
+export { default as Profile } from "./profile.png";
+export { default as Circle } from "./circle.svg";
+export { default as React } from "./react.png";
+export { default as Sass } from "./sass.png";
+export { default as Javascript } from "./javascript.png";
+export { default as HTML } from "./html.png";
+export { default as CSS } from "./css.png";
+export { default as Git } from "./git.png";
+export { default as TS } from "./typescript.png";
+export { default as Test } from "./test-PhotoRoom.png";
